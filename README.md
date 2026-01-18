@@ -1,6 +1,6 @@
 # YFX0050 – Keha liikumine Veenuse ümber (RKF45)
 
-TalTech aine: **YMX0050 Füsikaliste protsesside modeleerimine**  
+TalTech aine: **YFX0050 Füsikaliste protsesside modeleerimine**  
 Õppejõud: **Mihhail Klopov**  
 
 Autor: **Aimar Kamm**  
