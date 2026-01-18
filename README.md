@@ -26,7 +26,7 @@ Joonistan:
 - `srkf45.for` — RKF45 integraator (Sandia Labs)
 - `orbit_v1.dat` — väljund (V = V1)
 - `orbit_v12.dat` — väljund (V = 1.2·V1)
-- `plot_two_cases.m` — MATLAB skript graafikute jaoks
+- `plot_venus_orbit_from_fortran.m` — MATLAB skript graafikute jaoks
 
 ---
 
